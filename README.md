@@ -41,7 +41,7 @@ M-TDT tool Documentation.
  
 ##  About 
 	
-	The program is for family-based genome-wide screening of single and joint effects of genetic mutations on infectious disease traits, either qualitative or quantitative traits, regardless of phenotype distribution.
+The program is for family-based genome-wide screening of single and joint effects of genetic mutations on infectious disease traits, either qualitative or quantitative traits, regardless of phenotype distribution.
 
 #### Strengths
 Ability to find joint effects of several markers impacting phenotypes in a context of small sample size
