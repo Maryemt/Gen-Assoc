@@ -40,17 +40,25 @@ M-TDT tool Documentation.
 </div> 
  
 ##  About 
+	
+	The program is for family-based genome-wide screening of single and joint effects of genetic mutations on infectious disease traits, either qualitative or quantitative traits, regardless of phenotype distribution.
 
-Gen-Assoc  is a  webservice version of the M-TDT (the multi-locus transmission disequilibrium test) tool. A tool developed to detect family-based multi-locus multi-allelic effects for qualitative or quantitative traits, extended from the original transmission disequilibrium test (TDT). 
+#### Strengths
+Ability to find joint effects of several markers impacting phenotypes in a context of small sample size
+Retrieve markers that would be missed by classical approaches
+Handles of main statistical issues like:
+	non-specified distribution of traits
+	related individuals
+	population admixture
+	linkage disequilibrium among markers
+
 
 ##  Installation 
 
-
-> Two versions of the tool are available  the CLI and the Webservice.
+> Two versions of the tool are available: the CLI and the Webservice.
  
- ```diff 
- ! This  Installation  guide is focused only on Webservice Version
- ```
+ 
+ Installation  guide for Webservice Version
  
  We  have two kind of installation  process in easy step  
  by **cloning the repos** or **using  Docker container** 
