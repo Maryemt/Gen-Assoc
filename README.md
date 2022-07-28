@@ -45,7 +45,8 @@ The program is for family-based genome-wide screening of single and joint effect
 
 Strengths
 Ability to find joint effects of several markers impacting phenotypes in a context of small sample size
-Retrieve markers that would be missed by classical approaches
+	
+	Retrieve markers that would be missed by classical approaches
 Handles of main statistical issues like:
 non-specified distribution of traits
 related individuals
